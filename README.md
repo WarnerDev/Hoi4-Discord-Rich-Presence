@@ -13,7 +13,7 @@
 
 ### Bugs
 > I know, it's not always going to work,
-> so i made a discord support server for it.
+> so i made a discord ![Support Server](https://discord.gg/8EeNbmJPQU) for it.
 > you can join and explain whats wrong so i'll help you !
 
 ### Why should I trust your .exe file?
