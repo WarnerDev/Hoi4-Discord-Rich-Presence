@@ -5,10 +5,10 @@
 
 ![Preview](image.jpg)
 ### Installation
-* Open `setup.exe` file
-* Wait for `setup.exe` to popup "Setting Applied !"
+* Open `setup.py` file
+* Wait for `setup.py` to popup "Setting Applied !"
 * Open Hearts of Iron IV and play and play for a in-game month
-* Now open `Hoi4 Discord Rich Presence Beta.exe` 
+* Now open `main.py` 
 * Done! next time you just have to run `Hoi4` and `Hoi4 Discord Rich Presence Beta.exe`
 
 ### Bugs
