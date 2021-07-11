@@ -16,10 +16,10 @@
 > so i made a discord [Support Server](https://discord.gg/8EeNbmJPQU) for it.
 > you can join and explain whats wrong so i'll help you !
 
-### Why should I trust your .exe file?
+### Why should I trust your .exe files?
 > You can scan it by anti-virus websites or apps to make sure it's not a malware or something.
 
-### What `setup.exe` does ?
+### What `setup.py` does ?
 > This file is supposed to change your game settings so that from now on it will not save the saved game files in binary.
 
 ### How do I close this ?
